@@ -7,5 +7,5 @@ Uproszczona graficznie wersja popularnej gry Flappy Bird. Gra ta polega na unika
 
 ## Widok gry:
 <p align="center">
-    <img src="screeny/flappy-bird.png">
+    <img src="flappy-bird.png">
 </p>
